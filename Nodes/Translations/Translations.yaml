@@ -1,0 +1,35 @@
+Name: Translations
+Type: FolderType
+Children:
+- Name: LocalizationDictionary1
+  Type: LocalizationDictionary
+  DataType: String
+  ValueRank: OneOrMoreDimensions
+  ArrayDimensions: [0,0]
+  Value: 
+   {
+    "Type": 12,
+    "Dimensions": [20,4],
+    "Body": [
+     "","en-US","it-IT","en-GB",
+     "message1","message1 en-US","message1 it-IT","message1 en-GB",
+     "Password","Password","Password","",
+     "Change User","Change User","Cambia utente","",
+     "Old password","Old password","Vecchia password","",
+     "New password","New password","Nuova password","",
+     "ChangePasswordFormSuccessMessage","Password changed successfully","Password cambiata con successo","",
+     "Confirm password","Confirm password","Conferma password","",
+     "Your password has expired. Please enter a new one.","Your password has expired. Please enter a new one.","Password scaduta. Inseriscine una nuova.","",
+     "ChangeUserFormOutputSuccessMessage","Change User successful","Cambio utente riuscito","",
+     "Change password","Change password","Cambia password","",
+     "ChangeUserFormOutputErrorMessage","Authentication failed","Autenticazione fallita","",
+     "ChangeUserFormOutputPasswordExpired","Password expired","Password scaduta","",
+     "ChangePasswordFormWrongOldPasswordMessage","Wrong old password","Vecchia password errata","",
+     "ChangePasswordFormPasswordAlreadyUsedMessage","Password already used","Password già utilizzata","",
+     "ChangePasswordFormPasswordChangedTooRecentlyMessage","Password changed too recently","Password cambiata troppo recentemente","",
+     "ChangePasswordFormPasswordTooShortMessage","Password too short","Password troppo corta","",
+     "ChangePasswordFormUserNotFoundMessage","User not found","Utente non trovato","",
+     "ChangePasswordFormUnsupportedOperationMessage","Unsupported operation","Operazione non supportata","",
+     "ChangePasswordFormPasswordMismatchMessage","Passwords do not match","Le password non coincidono",""
+    ]
+   }
